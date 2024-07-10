@@ -1,4 +1,6 @@
 # DopplerQualityClassification
+This repository hosts the scripts used for training and deploying the deep learning model for quality classification of 1-D Doppler Ultrasound signals. These models are detailed in the paper presented at the ML4H 2023 conference: [M. Motie-Shirazi, R. Sameni, P. Rohloff, N. Katebi, G. D. Clifford, "Point-of-Care Real-Time Signal Quality Assessment for Fetal Doppler Ultrasound Using a Deep Learning Approach"](https://arxiv.org/pdf/2312.09433).
+
 
 This repository houses the scripts for training and employing the deep learning model designed for quality classification of 1-D Doppler Ultrasound signals.
 
